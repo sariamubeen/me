@@ -32,7 +32,6 @@ I'm an accomplished IT professional with a strong background in security, networ
 ## Let's Connect 🤝
 
 - **LinkedIn:** [Saria Mubeen's LinkedIn Profile](https://www.linkedin.com/in/saria-mubeen)
-- **Email:** [mubeenshahzada200@gmail.com](mailto:mubeenshahzada200@gmail.com)
 
 <!-- Conclusion -->
 ## Conclusion
