@@ -1,6 +1,7 @@
 <!-- Project Title -->
 # Hi there, I'm Saria Mubeen 👋
-https://github.com/sariamubeen/sariamubeen/blob/6a448216a1b2e7efe77862b2d96f381ac557ced6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966.gif?raw=true
+![Image Description](https://raw.githubusercontent.com/sariamubeen/sariamubeen/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456j4857706956494f475854356c396m2f67697068792e676966.gif)
+
 <!-- Introduction -->
 I'm an accomplished IT professional with a strong background in security, networking, and DevOps. With a diverse skill set, I'm passionate about delivering top-notch IT solutions to clients and exceeding their expectations.
 
