@@ -2,7 +2,7 @@
 
 I'm an accomplished IT professional with a strong background in security, networking, and DevOps. With a diverse skill set, I'm passionate about delivering top-notch IT solutions to clients and exceeding their expectations.
 <p align="center">
-  <img src="https://github.com/sariamubeen/sariamubeen/blob/6fb781be7941e222ae086a32567465868babef46/x.gif" alt="Saria Mubeen" width=400"/>
+  <img src="https://github.com/sariamubeen/me/blob/c11eecca5d8bcc5b4177c43a4f4f88bc6531e1a3/x.gif" alt="Saria Mubeen" width=400"/>
 </p>
 
 ## 🛠️ Skills & Expertise
