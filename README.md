@@ -1,113 +1,29 @@
-# Hi there, I'm Saria Mubeen 👋
+# 💫 About Me:
+Hey there! I’m Saria Mubeen—your friendly neighborhood DevOps/DevSecOps Engineer, Cloud Wrangler, and part-time cyber detective. By day, I optimize cloud infrastructures, automate deployments, and hunt down vulnerabilities like they owe me money. By night, I dive into the shadowy world of ethical hacking, where I poke and prod at systems, all in the name of making the digital world just a bit safer (or at least more interesting).<br><br>I’m not just about the zeros and ones, though. I also run a YouTube channel where I demystify cybersecurity for the masses. Think of it as a guided tour through the labyrinth of hacking challenges, networking quirks, and the occasional “oops, I broke the internet” moment—because who doesn’t love a little chaos now and then?<br><br>If you’re into breaking things just to fix them better, or you find comfort in the glow of terminal screens, we might just get along. Let’s connect, collaborate, or conspire (for good, of course). Welcome to my corner of the web—where code meets a slightly twisted sense of humor.
 
-I'm an accomplished IT professional with a strong background in security, networking, and DevOps. With a diverse skill set, I'm passionate about delivering top-notch IT solutions to clients and exceeding their expectations.
 <p align="center">
   <img src="https://github.com/sariamubeen/me/blob/c11eecca5d8bcc5b4177c43a4f4f88bc6531e1a3/x.gif" alt="Saria Mubeen" width=400"/>
 </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sariamobeen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saria-mubeen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sariamubeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SariaMubeen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sariamubeen) 
 
-## 🛠️ Skills & Expertise
+# 💻 Tech Stack:
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=flat&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=Codeberg&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=flat&logo=pythonanywhere&logoColor=151515) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Linode](https://img.shields.io/badge/linode-00A95C?style=flat&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=flat&logo=vultr) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=flat&logo=ubiquiti&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat&logo=SONARLINT&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=flat&logo=Crowdin&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=flat&logo=alfred) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=flat&logo=packer&logoColor=%2302A8EF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![ChipperCI](https://img.shields.io/badge/chipperci-1e394e.svg?style=flat&logo=chipperci&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=flat) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=flat&logo=gitea&logoColor=5D9425) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=flat&logo=forgejo&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat&logo=gitee&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=flat&logo=octopusdeploy&logoColor=white) ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white) ![Perforce Helix](https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=flat&logo=Perforce&logoColor=white) ![Mercurial](https://img.shields.io/badge/mercurial-999999.svg?style=flat&logo=mercurial&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat&logo=gitpod&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat&logo=surrealdb&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=flat&logo=musicbrainz&logoColor=BA478F) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=flat&logo=singlestore&logoColor=white) ![Quill](https://img.shields.io/badge/Quill-52B0E7?style=flat&logo=apache&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sariamubeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sariamubeen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sariamubeen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **DevOps & DevSecOps:** 
-  - Streamlining development, deployment, and security.
-  - Expertise in CI/CD pipelines using tools like Jenkins, GitLab CI, and GitHub Actions.
-  - Proficient in containerization and orchestration with Docker and Kubernetes.
-  - Automated infrastructure provisioning using Terraform and Ansible.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sariamubeen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Network Security:** 
-  - Deep understanding of network infrastructure and Linux systems.
-  - Implementing security best practices and hardening network configurations.
-  - Experience with firewalls, VPNs, and intrusion detection/prevention systems.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Programming:** 
-  - Proficiency in JavaScript, PHP, databases, and data structures.
-  - Scripting and automation using Python, Bash, and PowerShell.
-
-## 🏆 Notable Achievements
-
-- Successfully completed complex DevOps projects, including automated deployment pipelines and scalable cloud infrastructure setups.
-- Designed and implemented comprehensive security solutions, focusing on intrusion detection, incident response, and vulnerability management.
-- Conducted advanced security hacking projects, including penetration testing, ethical hacking, and forensic analysis.
-- Led multiple projects in Linux privilege escalation and packet tracer network design.
-- Achieved multiple industry certifications including CEH, OSCP, CCNA, HCIA Security, and more.
-
-## 📜 Certifications
-
-- **Google IT Support:** Certificate
-- **Certified Ethical Hacker (CEH):** Certificate
-- **OSCP:** Certificate
-- **CCNA:** Certificate
-- **HCIA Security - Huawei:** Certificate
-- And many more! See the full list for details.
-
-## 🎓 Education
-
-- **Bachelor of Science (BS) in Computer Science** from the University of Management and Technology - UMT.
-
-## 📚 Projects
-
-### DevOps & DevSecOps Projects
-
-#### 1. Automated CI/CD Pipeline for Microservices
-- **Description:** Developed a robust CI/CD pipeline using Jenkins, Docker, and Kubernetes for a large-scale microservices architecture.
-- **Key Features:**
-  - Automated testing, building, and deployment processes.
-  - Seamless integration with Git for version control and issue tracking.
-  - Real-time monitoring and alerting using Prometheus and Grafana.
-
-#### 2. Infrastructure as Code (IaC) with Terraform and Ansible
-- **Description:** Provisioned and managed cloud infrastructure on AWS and Azure using Terraform and Ansible.
-- **Key Features:**
-  - Automated infrastructure setup and configuration management.
-  - Ensured consistency and reliability across multiple environments.
-  - Implemented security best practices for cloud resources.
-
-#### 3. Secure Cloud Architecture Design
-- **Description:** Designed and implemented secure cloud architectures for multiple clients.
-- **Key Features:**
-  - Utilized AWS security services such as IAM, Security Groups, and VPCs.
-  - Implemented encryption, logging, and monitoring to enhance security.
-  - Conducted regular security audits and vulnerability assessments.
-
-### Security & Hacking Projects
-
-#### 1. Advanced Penetration Testing
-- **Description:** Conducted thorough penetration tests on web applications, networks, and systems for various clients.
-- **Key Features:**
-  - Identified and exploited vulnerabilities, providing detailed reports and remediation strategies.
-  - Utilized tools such as Metasploit, Burp Suite, and Nmap.
-  - Developed custom exploits and scripts to demonstrate attack vectors.
-
-#### 2. Incident Response and Forensics
-- **Description:** Led incident response teams to handle and mitigate security breaches.
-- **Key Features:**
-  - Performed forensic analysis to trace attack vectors and recover compromised data.
-  - Developed incident response plans and playbooks.
-  - Conducted training sessions for internal teams on incident response and digital forensics.
-
-#### 3. Linux Privilege Escalation
-- **Description:** Executed multiple Linux privilege escalation techniques in lab environments.
-- **Key Features:**
-  - Developed comprehensive guides and tutorials for educational purposes.
-  - Utilized tools like LinPEAS and GTFOBins.
-  - Provided detailed analysis and mitigation strategies for each vulnerability.
-
-#### 4. Packet Tracer Network Design
-- **Description:** Designed complex network topologies using Cisco Packet Tracer.
-- **Key Features:**
-  - Simulated network scenarios to test performance, security, and reliability.
-  - Configured routing, switching, and security features.
-  - Conducted network performance analysis and optimization.
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [Saria Mubeen's LinkedIn Profile](https://www.linkedin.com/in/saria-mubeen/)
-
-## 🙏 Conclusion
-
-I'm dedicated to providing cutting-edge solutions that address the evolving needs of businesses. My problem-solving abilities, attention to detail, and unwavering commitment to client satisfaction set me apart as a reliable and valuable partner for your projects.
-
-Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email if you'd like to collaborate. Let's work together to secure and streamline your IT operations.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sariamubeen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sariamubeen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Thank You for Visiting!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
